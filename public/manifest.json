@@ -1,0 +1,24 @@
+{
+  "short_name": "فروشگاه اینترنتی",
+  "name": "فروشگاه اینترنتی",
+  "start_url": "/",
+  "display": "standalone",
+  "scope": "https://shop.amahdavi.dev/",
+  "icons": [
+    {
+      "src": "pwa192.png",
+      "type": "image/png"
+    },
+    {
+      "src": "pwa512.png",
+      "type": "image/png"
+    }
+  ],
+  "url_handlers": [
+    {
+      "origin": "https://shop.amahdavi.dev/"
+    }
+  ],
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
